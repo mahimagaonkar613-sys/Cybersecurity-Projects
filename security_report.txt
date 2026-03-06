@@ -1,0 +1,10 @@
+Security Report
+-----------------
+Suspicious IP: 192.168.1.1
+Failed Attempts: 4
+Risk Level: HIGH
+
+Suspicious IP: 10.0.0.5
+Failed Attempts: 3
+Risk Level: HIGH
+
